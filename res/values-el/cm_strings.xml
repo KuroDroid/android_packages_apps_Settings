@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Επιλέξτε πάροχο αντιγράφων ασφαλείας</string>
     <string name="berry_black_theme_title">Αμιγές μαύρο</string>
     <string name="berry_black_theme_summary">Αμιγές μαύρο παρασκήνιο για το σκοτεινό θέμα</string>
-    <string name="lineagelicense_title">Νομικές πληροφορίες LineageOS</string>
+    <string name="lineagelicense_title">Νομικές πληροφορίες KuroDroid</string>
     <string name="device_info_protected_single_press">Πατήστε για εμφάνιση πληροφοριών</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Απομένει <xliff:g id="step_count">%1$d</xliff:g> βήμα για να ενεργοποιήσετε τις ρυθμίσεις για προγραμματιστές.</item>
