@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Trieu un proveïdor de còpia de seguretat</string>
     <string name="berry_black_theme_title">Negre pur</string>
     <string name="berry_black_theme_summary">Fons negre pur per al tema fosc</string>
-    <string name="lineagelicense_title">Llicència LineageOS</string>
+    <string name="lineagelicense_title">Llicència KuroDroid</string>
     <string name="device_info_protected_single_press">Toqueu per mostrar la informació</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Ara ets a <xliff:g id="step_count">%1$d</xliff:g> pas d\'habilitar les configuracions de desenvolupament.</item>
