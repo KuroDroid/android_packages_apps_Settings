@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS Regs</string>
+    <string name="lineagelicense_title">KuroDroid Regs</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Jy is nou <xliff:g id="step_count">%1$d</xliff:g> stap weg van bemagtigende ontwikkelaar opsies.</item>
         <item quantity="other">Jy is nou <xliff:g id="step_count">%1$d</xliff:g> stappe weg van bemagtigende ontwikkelaar opsies.</item>
