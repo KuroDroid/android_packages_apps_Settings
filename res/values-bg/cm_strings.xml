@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Изберете доставчик на резервни копия</string>
     <string name="berry_black_theme_title">Натурално черно</string>
     <string name="berry_black_theme_summary">Натурален черен фон за тъмна тема</string>
-    <string name="lineagelicense_title">LineageOS правна информация</string>
+    <string name="lineagelicense_title">KuroDroid правна информация</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Вече сте на <xliff:g id="step_count">%1$d </xliff:g> крачка от включването на \"Опции на програмиста\".</item>
         <item quantity="other">Вече сте на <xliff:g id="step_count">%1$d </xliff:g> крачки от включването на \"Опции на програмиста\".</item>
