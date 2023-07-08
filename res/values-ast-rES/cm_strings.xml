@@ -21,7 +21,7 @@
     <string name="adb_enable_summary_root">Permite la execución de la depuración d\'Android como root</string>
     <string name="berry_black_theme_title">Prietu puro</string>
     <string name="berry_black_theme_summary">Un fondu en prieto puro pal estilu «Escuridá»</string>
-    <string name="lineagelicense_title">Información llegal de LineageOS</string>
+    <string name="lineagelicense_title">Información llegal de KuroDroid</string>
     <string name="device_info_protected_single_press">Toca equí p\'amosar la información</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Quédate <xliff:g id="step_count">%1$d</xliff:g> toque p\'activar la configuración de desendolcu.</item>
