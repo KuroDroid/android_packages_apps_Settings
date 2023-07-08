@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Vyberte poskytovatele zálohování</string>
     <string name="berry_black_theme_title">Čistě černý</string>
     <string name="berry_black_theme_summary">Čistě černé pozadí při tmavém motivu</string>
-    <string name="lineagelicense_title">Právní ujednání LineageOS</string>
+    <string name="lineagelicense_title">Právní ujednání KuroDroid</string>
     <string name="device_info_protected_single_press">Klepnutím zobrazit informace</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Už jste jen <xliff:g id="step_count">%1$d</xliff:g> krok od povolení vývojářských nastavení.</item>
