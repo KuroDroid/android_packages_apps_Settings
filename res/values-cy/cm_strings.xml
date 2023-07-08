@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Dewis darparwr wrth gefn</string>
     <string name="berry_black_theme_title">Du pur</string>
     <string name="berry_black_theme_summary">Cefndir du pur i\'r thema dywyll</string>
-    <string name="lineagelicense_title">Cyfreithiol LineageOS</string>
+    <string name="lineagelicense_title">Cyfreithiol KuroDroid</string>
     <string name="device_info_protected_single_press">Tapio i ddangos gwybodaeth</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="zero">Rwyt nawr <xliff:g id="step_count">%1$d</xliff:g> camau i ffwrdd o alluogi gosodiadau datblygu.</item>
